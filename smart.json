@@ -1,0 +1,10 @@
+{
+  "name": "fullcalendar",
+  "description": "FullCalendar - Full-sized drag & drop event calendar",
+  "homepage": "https://github.com/erobit/meteor-fullcalendar",
+  "author": "Eric Robitaille <eric@vianet.ca>",
+  "version": "0.0.1",
+  "git": "https://github.com/erobit/meteor-fullcalendar.git",
+  "packages": {
+  }
+}
