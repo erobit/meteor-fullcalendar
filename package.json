@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-	api.add_files([
-		'css/fullcalendar.css',
-		'lib/fullcalendar.min.js'], 'client');
+  api.use('jquery', 'client');
+  api.add_files('css/fullcalendar.css', 'client');
+  api.add_files('lib/fullcalendar.min.js', 'client');
 });
