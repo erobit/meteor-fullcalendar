@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Simple package to use FullCalendar"
+  summary: "FullCalendar package for Meteor"
 });
 
 Package.on_use(function (api) {
