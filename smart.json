@@ -1,6 +1,6 @@
 {
   "name": "fullcalendar",
-  "description": "Get Gravatar hashes / URLs for an email address.",
+  "description": "FullCalendar package for Meteor",
   "homepage": "https://github.com/erobit/meteor-fullcalendar",
   "author": "Eric Robitaille <eric@vianet.ca>",
   "version": "0.0.1",
